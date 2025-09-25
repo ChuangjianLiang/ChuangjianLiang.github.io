@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将硕士毕业于中国上海的 复旦大学 智能机器人与先进制造创新学院航空航天系，我的导师是费成巍教授。本科毕业于广东汕头的 汕头大学 工学院机械工程系，我的导师是牛小东教授。我已发表2篇学术论文，申请2项中国国家发明专利，一项软件著作权
+我将硕士毕业于中国上海的 复旦大学 智能机器人与先进制造创新学院航空航天系，我的导师是费成巍教授。本科毕业于广东汕头的 汕头大学 工学院机械工程系，我的导师是牛小东教授。我已发表2篇学术论文，申请2项中国国家发明专利，一项软件著作权。
  <a href='https://scholar.google.com/citations?user=xPJt8QwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -28,6 +28,11 @@ redirect_from:
 - 深度学习
 - 路径规划
 - 自主导航
+
+我掌握的专业技能或软件：MATLAB、Python、C语言、单片机、Solidworks、ROS、Linux、 立创EDA、LaTeX
+
+我的CSDN博客：[https://blog.csdn.net/liam\_lcj](https://blog.csdn.net/liam\_lcj)
+我的bilibili主页：[{https://space.bilibili.com/392388849](https://space.bilibili.com/392388849)
   
 <span class='anchor' id='-xl'></span>
 
