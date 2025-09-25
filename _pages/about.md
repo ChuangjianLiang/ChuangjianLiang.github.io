@@ -29,8 +29,6 @@ redirect_from:
 - 路径规划
 - 自主导航
   
-
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
@@ -44,7 +42,7 @@ redirect_from:
 ### 英文
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/AST2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AST 2025</div><img src='images/AST2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Wen, Jiong-Ran, `Chuang-Jian Liang`, Yat-Sze Choy, Cheng-Wei Fei, Jian Li, and Behrooz Keshtegar. "Explainable spatiotemporal graph neutral network with dynamic SHAP enhancement for aeroengine RUL prediction." Aerospace Science and Technology (2025): 110875. (JCR:Q1; IF:5.8)  
@@ -140,18 +138,16 @@ redirect_from:
 - 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
 [[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)   -->
 
-### 专利
+### 专利和软件著作权
 ---
 <!-- - 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
 - 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
 - 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
 - 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
 - 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=)  -->
-- `梁创楗`,陆俊成,吴嘉俊,牛小东,彭雄斌,陈振国,曾令山,赖学盛,何鸿天,刘德荣. 一种吸气式双臂搬运机器人集群系统及控制方法
-- `梁创楗`,梁志斌,曲烽硕,李文浩,吴嘉俊,刘德荣,牛小东,陆俊成,陈尊佳,何鸿天. 一种农业机器人的控制方法、装置、设备及介质
-
-
-
+- `梁创楗`,陆俊成,吴嘉俊,牛小东,彭雄斌,陈振国,曾令山,赖学盛,何鸿天,刘德荣. 一种吸气式双臂搬运机器人集群系统及控制方法 (发明专利,专利号：$2023113337864$)
+- `梁创楗`,梁志斌,曲烽硕,李文浩,吴嘉俊,刘德荣,牛小东,陆俊成,陈尊佳,何鸿天. 一种农业机器人的控制方法、装置、设备及介质(发明专利，专利号：$2024104971588$)
+- `梁创楗`. ASUR智能农业机器人上位机系统V1.0(软件著作权，登记号：$2024SR0040258$)
 
 
 
@@ -190,3 +186,16 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
+
+#  📋 科创项目经历
+
+- 主持$2023$年`国家级大学生创新创业训练计划项目`“基于智能控制的农业机器人”并获得`优秀结项`。负责机械结构设计与优化、机器人加工以及制作、Ansys应力仿真、路径规划算法、运动控制，产出一项软件著作权，一项专利（进入实审阶段）
+- 参与$2022$年`国家级大学生创新创业训练计划项目`“基于5G+的快递分拣系统”并获得`优秀结项`。负责机械臂设计与制作、路径规划与运动控制和论文撰写工作，产出一项发明专利（进入实审阶段）
+
+
+# 🏊 个人兴趣
+
+跑步、游泳、乒乓球、健身
+
+- 2018年罗定中学男子甲组100m冠军（12.24s），达国家三级短跑运动员水平
+- 2019年罗定中学男子甲组200m冠军（25.35s），达国家三级短跑运动员水平
