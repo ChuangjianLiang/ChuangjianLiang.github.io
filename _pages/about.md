@@ -178,14 +178,14 @@ redirect_from:
 - *2023* 获得 `一等奖学金`（前$2.1\%$）
 
 
-- *2023.12* 获得 全国大学生工程实践与创新能力大赛 `国家级金奖`[[新闻]](https://eng.stu.edu.cn/info/1012/3386.htm)（负责人）
+- *2023.12* 获得 全国大学生工程实践与创新能力大赛 `国家级金奖`（负责人）[[新闻]](https://eng.stu.edu.cn/info/1012/3386.htm)
 - *2023.05* 获得 第十七届”挑战杯“广东省大学生课外学术科技作品竞赛 `省级一等奖`（负责人）  
-- *2023.08* 获得 第十八届全国大学生智能汽车竞赛（华南赛区） `省级二等奖` （重要成员）
+- *2023.08* 获得 第十八届全国大学生智能汽车竞赛（华南赛区） `省级二等奖` （重要成员）[[获奖链接]](https://blog.csdn.net/zhuoqingjoking97298/article/details/140865643)
 - *2022.09* 获得 全国大学生数学建模 `省级二等奖`（负责人）
 - *2022.11* 获得 广东省工科大学生实验综合技能竞赛 `省级二等奖`（负责人）
 - *2024.05* 获得 第十一届全国大学生机械创新设计大赛 `省级三等奖`（负责人）
 - *2023.06* 获得 第十届广东省大学生“合泰杯”单片机应用与设计大赛 `省级三等奖`（负责人）
-- *2023.08* 获得 睿抗机器人开发者大赛(RAICOM) `省级三等奖`（负责人）
+- *2023.08* 获得 睿抗机器人开发者大赛(RAICOM) `省级三等奖`（负责人）[[新闻]](https://www.google.com/search?q=%E6%A2%81%E5%88%9B%E6%A5%97&newwindow=1&sca_esv=9f3016a5a8de59d9&sxsrf=AE3TifP8EA-C_OImwm6JHynaiyJsnwcadg%3A1758792154997&source=hp&ei=2gnVaJ6EO6Gdvr0PgOz4mAg&iflsig=AOw8s4IAAAAAaNUX6r5dbxcwV5WuQCe2YxsFkuIwlbJH&ved=0ahUKEwie2YWty_OPAxWhjq8BHQA2HoMQ4dUDCBc&uact=5&oq=%E6%A2%81%E5%88%9B%E6%A5%97&gs_lp=Egdnd3Mtd2l6IgnmooHliJvmpZcyCxAAGIAEGLEDGIMBMgUQABiABDILEC4YgAQYsQMY1AIyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATIIEAAYgAQYsQMyEBAuGIAEGLEDGIMBGIoFGAoyERAuGIAEGLEDGNEDGIMBGMcBMggQLhiABBixAzILEC4YgAQYsQMYgwFI1RFQ-AtYjRBwAXgAkAEAmAGzA6AB7waqAQcyLTIuMC4xuAEDyAEA-AEBmAIDoALIA6gCCsICBxAjGCcY6gLCAg4QLhiABBixAxjRAxjHAZgDBfEFixrmYVXumJaSBwUxLjAuMqAH6CeyBwMyLTK4B8MDwgcFMC4xLjLIBwk&sclient=gws-wiz)
 
 <span class='anchor' id='-xshy'></span>
 
@@ -203,13 +203,15 @@ redirect_from:
 
 #  📋 科创项目经历
 
-- 主持$2023$年`国家级大学生创新创业训练计划项目`“基于智能控制的农业机器人”并获得`优秀结项`。负责机械结构设计与优化、机器人加工以及制作、Ansys应力仿真、路径规划算法、运动控制，产出一项软件著作权，一项专利（进入实审阶段）
+- 主持$2023$年`国家级大学生创新创业训练计划项目`“基于智能控制的农业机器人”并获得`优秀结项`。负责机械结构设计与优化、机器人加工以及制作、Ansys应力仿真、路径规划算法、运动控制，产出一项软件著作权，一项专利（进入实审阶段）[[立项链接]](http://114.220.75.43:1022/Index/ItemDetail?id=e708030e-2815-4aa4-b712-e02bc7278e02&_pageIndex=318)
 - 参与$2022$年`国家级大学生创新创业训练计划项目`“基于5G+的快递分拣系统”并获得`优秀结项`。负责机械臂设计与制作、路径规划与运动控制和论文撰写工作，产出一项发明专利（进入实审阶段）
 
 
 # 🏊 个人兴趣
 
-跑步、游泳、乒乓球、健身
+跑步、游泳、乒乓球、健身、做菜
 
 - 2018年罗定中学男子甲组100m冠军（12.24s），达国家三级短跑运动员水平
 - 2019年罗定中学男子甲组200m冠军（25.35s），达国家三级短跑运动员水平
+
+

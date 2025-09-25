@@ -69,25 +69,26 @@ Bilibili: https://space.bilibili.com/392388849
 
 - *Dec 2023:* Awarded *National Gold Prize* in the China National Engineering Practice and Innovation Ability Competition (Leader) [[News]](https://eng.stu.edu.cn/info/1012/3386.htm)
 - *May 2023:* Awarded *Provincial First Prize* in the 17th "Challenge Cup" Guangdong College Students Extracurricular Academic and Scientific Works Competition (Leader)
-- *Aug 2023:* Awarded *Provincial Second Prize* in the 18th China National Smart Car Competition (South China Region) (Key Member)
+- *Aug 2023:* Awarded *Provincial Second Prize* in the 18th China National Smart Car Competition (South China Region) (Key Member)[[Link]](https://blog.csdn.net/zhuoqingjoking97298/article/details/140865643)
 - *Sep 2022:* Awarded *Provincial Second Prize* in the China Undergraduate Mathematical Contest in Modeling (Leader)
 - *Nov 2022:* Awarded *Provincial Second Prize* in the Guangdong College Students Comprehensive Experimental Skills Competition for Engineering Majors (Leader)
 - *May 2024:* Awarded *Provincial Third Prize* in the 11th China National Mechanical Innovation Design Competition (Leader)
 - *Jun 2023:* Awarded *Provincial Third Prize* in the 10th Guangdong College Students “Holtek Cup” Microcontroller Application and Design Competition (Leader)
-- *Aug 2023:* Awarded *Provincial Third Prize* in the RAICOM Robot Developers Competition (RAICOM) (Leader)
+- *Aug 2023:* Awarded *Provincial Third Prize* in the RAICOM Robot Developers Competition (RAICOM) (Leader)[[News]](https://www.google.com/search?q=%E6%A2%81%E5%88%9B%E6%A5%97&newwindow=1&sca_esv=9f3016a5a8de59d9&sxsrf=AE3TifP8EA-C_OImwm6JHynaiyJsnwcadg%3A1758792154997&source=hp&ei=2gnVaJ6EO6Gdvr0PgOz4mAg&iflsig=AOw8s4IAAAAAaNUX6r5dbxcwV5WuQCe2YxsFkuIwlbJH&ved=0ahUKEwie2YWty_OPAxWhjq8BHQA2HoMQ4dUDCBc&uact=5&oq=%E6%A2%81%E5%88%9B%E6%A5%97&gs_lp=Egdnd3Mtd2l6IgnmooHliJvmpZcyCxAAGIAEGLEDGIMBMgUQABiABDILEC4YgAQYsQMY1AIyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATIIEAAYgAQYsQMyEBAuGIAEGLEDGIMBGIoFGAoyERAuGIAEGLEDGNEDGIMBGMcBMggQLhiABBixAzILEC4YgAQYsQMYgwFI1RFQ-AtYjRBwAXgAkAEAmAGzA6AB7waqAQcyLTIuMC4xuAEDyAEA-AEBmAIDoALIA6gCCsICBxAjGCcY6gLCAg4QLhiABBixAxjRAxjHAZgDBfEFixrmYVXumJaSBwUxLjAuMqAH6CeyBwMyLTK4B8MDwgcFMC4xLjLIBwk&sclient=gws-wiz)
 
 
 <span class='anchor' id='-xshy'></span>
 
 # 💻 Projects
 
-- Led the National University Student Innovation and Entrepreneurship Training Program project in 2023, titled "Agricultural Robot Based on Intelligent Control," and achieved an Excellent Final Evaluation. My responsibilities included mechanical structure design and optimization, robot processing and fabrication, Ansys stress simulation, path planning algorithms, and motion control. This work resulted in one software copyright and one patent (currently in the substantive examination phase).
+- Led the National University Student Innovation and Entrepreneurship Training Program project in 2023, titled "Agricultural Robot Based on Intelligent Control," and achieved an Excellent Final Evaluation. My responsibilities included mechanical structure design and optimization, robot processing and fabrication, Ansys stress simulation, path planning algorithms, and motion control. This work resulted in one software copyright and one patent (currently in the substantive examination phase).[[Link]](http://114.220.75.43:1022/Index/ItemDetail?id=e708030e-2815-4aa4-b712-e02bc7278e02&_pageIndex=318)
 
 - Participated in the National University Student Innovation and Entrepreneurship Training Program project in 2022, titled "A 5G+-Based Express Sorting System," and achieved an Excellent Final Evaluation. I was responsible for the design and fabrication of the robotic arm, path planning and motion control, and technical paper writing. This work resulted in one invention patent (currently in the substantive examination phase).
 
 # 🏊 Interests
-Running, swimming, table tennis, fitness
+Running, swimming, table tennis, fitness, cooking
 
 2018: Champion of the Luo Ding Middle School Men's Group A 100m Dash (12.24s), achieving the standard for a National Third-Class Sprinter.
 
 2019: Champion of the Luo Ding Middle School Men's Group A 200m Dash (25.35s), achieving the standard for a National Third-Class Sprinter.
+
