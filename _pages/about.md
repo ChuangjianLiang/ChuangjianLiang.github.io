@@ -51,7 +51,14 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Laser Applications 2024</div><img src='images/Laser.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+-	Lin, Xingze, `Chuangjian Liang`, Yinghua Li, Yu Geng, Zewei Chen, Yongjie Zhao, Xinhui Chen, Jiajun Wu, and Shanji Wu. "Laser shock processing technique on the additive manufactured metallic alloys." Journal of Laser Applications 36, no. 3 (2024).
+[[网页]](https://doi.org/10.2351/7.0001411)
+
+</div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
