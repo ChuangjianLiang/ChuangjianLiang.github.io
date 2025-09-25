@@ -31,8 +31,9 @@ redirect_from:
 
 我掌握的专业技能或软件：MATLAB、Python、C语言、单片机、Solidworks、ROS、Linux、 立创EDA、LaTeX
 
-我的CSDN博客：[https://blog.csdn.net/liam\_lcj](https://blog.csdn.net/liam\_lcj)
-我的bilibili主页：[{https://space.bilibili.com/392388849](https://space.bilibili.com/392388849)
+我的CSDN博客：[https://blog.csdn.net/liam\_lcj](https://blog.csdn.net/liam_lcj?spm=1000.2115.3001.5343)
+
+我的bilibili主页：[https://space.bilibili.com/392388849](https://space.bilibili.com/392388849)
   
 <span class='anchor' id='-xl'></span>
 
