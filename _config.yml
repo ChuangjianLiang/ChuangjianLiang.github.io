@@ -8,6 +8,9 @@
 # Site Settings
 title                    : "梁创楗"
 description              : "航空宇航科学与技术"
+# English variants used on /en/
+title_en                 : "Chuangjian Liang"
+description_en           : "Aerospace Science and Technology"
 repository               : "ChuangjianLiang/ChuangjianLiang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,9 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "梁创楗"
-  avatar           : "images/pic.jpg"
+  name_en          : "Chuangjian Liang"
+  avatar           : "/images/pic.jpg"
   bio              : "复旦大学"
+  bio_en           : "Fudan University"
   location         : "广东 云浮"
+  location_en      : "Yunfu, Guangdong"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xPJt8QwAAAAJ"
