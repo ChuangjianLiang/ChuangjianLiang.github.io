@@ -36,7 +36,7 @@ Bilibili: https://space.bilibili.com/392388849
 # 📝 Publications & Patents
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AST 2025</div><img src='images/AST2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AST 2025</div><img src='/images/AST2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Wen, Jiong-Ran, `Chuang-Jian Liang`, Yat-Sze Choy, Cheng-Wei Fei, Jian Li, and Behrooz Keshtegar. "Explainable spatiotemporal graph neutral network with dynamic SHAP enhancement for aeroengine RUL prediction." Aerospace Science and Technology (2025): 110875. (JCR:Q1; IF:5.8)  
@@ -45,7 +45,7 @@ Bilibili: https://space.bilibili.com/392388849
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Laser Applications 2024</div><img src='images/Laser.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Laser Applications 2024</div><img src='/images/Laser.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Lin, Xingze, `Chuangjian Liang`, Yinghua Li, Yu Geng, Zewei Chen, Yongjie Zhao, Xinhui Chen, Jiajun Wu, and Shanji Wu. "Laser shock processing technique on the additive manufactured metallic alloys." Journal of Laser Applications 36, no. 3 (2024).(JCR:Q3; IF:1.7)  
@@ -65,9 +65,7 @@ Bilibili: https://space.bilibili.com/392388849
 - 2024 STU First-Class Scholarship (Top 0.78%)
 - 2023 STU First-Class Scholarship (Top 2.1%)
 
-Here is the English translation, following the original format:
 
----
 
 - *Dec 2023:* Awarded *National Gold Prize* in the China National Engineering Practice and Innovation Ability Competition (Leader) [[News]](https://eng.stu.edu.cn/info/1012/3386.htm)
 - *May 2023:* Awarded *Provincial First Prize* in the 17th "Challenge Cup" Guangdong College Students Extracurricular Academic and Scientific Works Competition (Leader)
