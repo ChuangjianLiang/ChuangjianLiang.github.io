@@ -36,7 +36,7 @@ Bilibili: https://space.bilibili.com/392388849
 # 📝 Publications & Patents
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AST 2025</div><img src='/images/AST2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AST 2025</div><img src='{{ "/images/AST2025.svg" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Wen, Jiong-Ran, `Chuang-Jian Liang`, Yat-Sze Choy, Cheng-Wei Fei, Jian Li, and Behrooz Keshtegar. "Explainable spatiotemporal graph neutral network with dynamic SHAP enhancement for aeroengine RUL prediction." Aerospace Science and Technology (2025): 110875. (JCR:Q1; IF:5.8)  
@@ -45,7 +45,7 @@ Bilibili: https://space.bilibili.com/392388849
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Laser Applications 2024</div><img src='/images/Laser.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Laser Applications 2024</div><img src='{{ "/images/Laser.svg" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Lin, Xingze, `Chuangjian Liang`, Yinghua Li, Yu Geng, Zewei Chen, Yongjie Zhao, Xinhui Chen, Jiajun Wu, and Shanji Wu. "Laser shock processing technique on the additive manufactured metallic alloys." Journal of Laser Applications 36, no. 3 (2024).(JCR:Q3; IF:1.7)  
