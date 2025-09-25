@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
+title                    : "梁创楗"
+description              : "航空发动机剩余寿命预测"
 repository               : "ChuangjianLiang/ChuangjianLiang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "梁创楗"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/pic.jpg"
   bio              : "复旦大学"
   location         : "广东 云浮"
   employer         : #"Hefei General Machinery Research Institute"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0009-0003-2629-2865"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
