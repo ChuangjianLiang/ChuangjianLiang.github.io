@@ -62,12 +62,12 @@ Bilibili: https://space.bilibili.com/392388849
 - 2022 National Encouragement Scholarship
 - 2023 STU President's Commendation
 - 2025 STU Outstanding Graduate
-- 2024 STU First-Class Scholarship (Top 0.78%)
-- 2023 STU First-Class Scholarship (Top 2.1%)
+- 2024 First-Class Scholarship (Top 0.78%)
+- 2023 First-Class Scholarship (Top 2.1%)
 
 
 
-- *Dec 2023:* Awarded *National Gold Prize* in the China National Engineering Practice and Innovation Ability Competition (Leader) [[News]](https://eng.stu.edu.cn/info/1012/3386.htm)
+- *Dec 2023:* Awarded *National Gold Prize* in the China National Engineering Practice and Innovation Ability Competition (Leader) [[News]](https://eng.stu.edu.cn/info/1012/3386.htm)[[Works]](https://github.com/ChuangjianLiang/2023gongxun)
 - *May 2023:* Awarded *Provincial First Prize* in the 17th "Challenge Cup" Guangdong College Students Extracurricular Academic and Scientific Works Competition (Leader)
 - *Aug 2023:* Awarded *Provincial Second Prize* in the 18th China National Smart Car Competition (South China Region) (Key Member)[[Link]](https://blog.csdn.net/zhuoqingjoking97298/article/details/140865643)
 - *Sep 2022:* Awarded *Provincial Second Prize* in the China Undergraduate Mathematical Contest in Modeling (Leader)
