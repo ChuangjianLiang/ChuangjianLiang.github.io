@@ -19,7 +19,7 @@ My research interests include:
 - Path Planning
 - Autonomous Navigation
 
-Skills: MATLAB, Python, C, MCU, SolidWorks, ROS, Linux, EDA, LaTeX
+Skills: Python、RAG、Agnet、OpenClaw、ROS、Linux、 MATLAB、C语言、单片机、Solidworks、EDA、LaTeX
 
 CSDN Blog: https://blog.csdn.net/liam_lcj
 
