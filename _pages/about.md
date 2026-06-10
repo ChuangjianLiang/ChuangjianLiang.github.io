@@ -29,7 +29,7 @@ redirect_from:
 - 路径规划
 - 自主导航
 
-我掌握的专业技能或软件：MATLAB、Python、C语言、单片机、Solidworks、ROS、Linux、 立创EDA、LaTeX
+我掌握的专业技能或软件：Python、RAG、Agnet、OpenClaw、ROS、Linux、 MATLAB、C语言、单片机、Solidworks、立创EDA、LaTeX
 
 我的CSDN博客：[https://blog.csdn.net/liam\_lcj](https://blog.csdn.net/liam_lcj?spm=1000.2115.3001.5343)
 
